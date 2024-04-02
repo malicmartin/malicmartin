@@ -21,7 +21,7 @@ I've been wanting to live abroad for a long time, so I've decided to turn a fres
 
 ### Personal Projects
 - : I am currently building a NASDAQ retracement measurer, a program designed to help me measure the historical retracements and upswings in the NASDAQ100, enabling me to make better trading decisions in my portfolio.
-- : Another work in progress is Baldur's Gate 3 DnD analyzer - a program designed to calculate the expected statistical outcomes of different tactics in Baldur's Gate 3. Its purpose is to assist the player in making the best tactical decisions during battles.
+- : Another work in progress is Baldur's Gate 3 tactics analyzer - a program designed to calculate the expected statistical outcomes of different tactics in Baldur's Gate 3. Its purpose is to assist the player in making the best tactical decisions during battles.
 
 ## Skills
 
