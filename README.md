@@ -2,16 +2,16 @@
 
 ## About Me
 
-Hello! I'm Martin, a determined individual navigating a transformative journey into the tech industry. Originally from Slovenia, I studied law at the University of Ljubljana. However, a year before graduation, I experienced second thoughts about my direction.
+Hey there! I’m Martin, originally from Slovenia. I studied law at the University of Ljubljana but had a change of heart about my career path a year before graduation.
 
-I've been wanting to live abroad for a long time, so I've decided to turn a fresh page and move to London where I've tried a few different careers before coming to the conclusion that I want to be in tech.
+Seeking new experiences, I moved to London where I explored various career paths. Eventually, I discovered my passion for tech and decided to pursue it wholeheartedly.
 
 ## My Journey
 
 - **Education**: I pursued law studies at the University of Ljubljana.
-- **Career Transition**: From delivering pizzas for Domino's to excelling as a sales negotiator at a prominent London estate agency, I cultivated resilience and adaptability.
+Career Transition: From delivering pizzas for Domino’s to excelling as a sales negotiator at a prominent London estate agency, I honed my resilience and adaptability.
 - **Entrepreneurial Pursuit**: With foresight of economic shifts, I embarked on a journey to acquire an estate agency, seeking opportunities for entrepreneurship and high-risk, high-reward ventures through the creation of significant value-added output. Despite relentless efforts, my quest remained elusive.
-- **Tech Aspiration**: Faced with the reality of a shifting landscape, I decided to acquire in-demand skills with limitless potential. Python became my entry into a new industry, initially learned through a Cisco Networking Academy sponsored course and further honed through a DfE-funded skills bootcamp by HyperionDev.
+- **Tech Aspiration**: Faced with the reality of a shifting landscape, I opted to acquire crucial skills. I began with Python, initially undertaking a Cisco Networking Academy course followed by a DfE-funded bootcamp by HyperionDev.
 
 ## Projects
 - [To be updated]: 
