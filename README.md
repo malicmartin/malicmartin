@@ -14,7 +14,7 @@ Career Transition: From delivering pizzas for Domino’s to excelling as a sales
 - **Tech Aspiration**: Faced with the reality of a shifting landscape, I opted to acquire crucial skills. I began with Python, initially undertaking a Cisco Networking Academy course followed by a DfE-funded bootcamp by HyperionDev.
 
 ## Projects
-- [To be updated]: 
+- Beyond Motors product selection tool: a product tailor-made for a Slovenian electromotor manufacturer. They hired me on a freelance basis to develop and integrate tailored solutions into their existing website.
 
 ### Task Manager Program
 - Enhanced a task manager program during the HyperionDev bootcamp, integrating innovative features for streamlined task management and improved efficiency.
@@ -25,8 +25,8 @@ Career Transition: From delivering pizzas for Domino’s to excelling as a sales
 
 ## Skills
 
-- **Programming Languages**: Thus far Python, I'll learn others in the very near future.
-- **Frameworks & Tools**:
+- **Programming Languages**: Python JavaScript
+- **Frameworks & Tools**:Flask, HTML, CSS, Bootstrap, SQL
 - **Soft Skills**: Cultivated problem-solving, communication, and teamwork capabilities amidst diverse challenges.
 
 ## Contact Me
