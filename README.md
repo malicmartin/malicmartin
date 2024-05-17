@@ -26,7 +26,7 @@ Career Transition: From delivering pizzas for Domino’s to excelling as a sales
 ## Skills
 
 - **Programming Languages**: Python JavaScript
-- **Frameworks & Tools**:Flask, HTML, CSS, Bootstrap, SQL
+- **Frameworks & Tools**: Flask, HTML, CSS, Bootstrap, SQL
 - **Soft Skills**: Cultivated problem-solving, communication, and teamwork capabilities amidst diverse challenges.
 
 ## Contact Me
